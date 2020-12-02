@@ -1,0 +1,15 @@
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/StoreLib.deps.json
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/StoreLib.runtimeconfig.json
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/StoreLib.runtimeconfig.dev.json
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/StoreLib.dll
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/ref/StoreLib.dll
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/bin/Debug/net5.0/StoreLib.pdb
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.csprojAssemblyReference.cache
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.AssemblyInfoInputs.cache
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.AssemblyInfo.cs
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.csproj.CoreCompileInputs.cache
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.dll
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/ref/StoreLib.dll
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.pdb
+/Users/hunghb/Downloads/DigiMed/Backend/Day2/StoreLib/obj/Debug/net5.0/StoreLib.genruntimeconfig.cache
